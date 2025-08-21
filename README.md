@@ -31,13 +31,14 @@ This project demonstrates **Create, Read, Update, Delete (CRUD)** operations usi
 ---
 
 ## 📂 Project Structure
+```bash
 rest_class/
 │
-├── views/ # EJS templates (index, new, edit, show)
-├── public/ # Static files (CSS, JS, images)
-├── index.js # Main server file
-├── package.json # Dependencies & scripts
-└── README.md # Project documentation
+├── views/             # EJS templates (index, new, edit, show)
+├── public/            # Static files (CSS, JS, images)
+├── index.js           # Main server file
+├── package.json       # Dependencies & scripts
+└── README.md          # Project documentation
 
 ---
 
