@@ -39,6 +39,7 @@ rest_class/
 ├── index.js           # Main server file
 ├── package.json       # Dependencies & scripts
 └── README.md          # Project documentation
+```
 
 ---
 
