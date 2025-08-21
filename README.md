@@ -76,3 +76,17 @@ Server will start at: http://localhost:8080
 - Server-side rendering using EJS
 - Handling form data and middleware
 - CRUD operations in practice
+
+---
+
+## 📬 Connect with Me
+
+- 💼 [GitHub](https://github.com/mukulnegi2004)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 📫 Email: mannunegi126@gmail.com
+
+---
+
+⭐ If you like this project, feel free to star it and give feedback!
+
+
