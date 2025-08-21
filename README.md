@@ -56,7 +56,7 @@ Server will start at: http://localhost:8080
 
 ---
 
-##📌 Routes Overview
+## 📌 Routes Overview
 
 ```
 **Route**         	**Method**                   	**Description**
@@ -71,7 +71,7 @@ Server will start at: http://localhost:8080
 
 ---
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 - RESTful API design with Express
 - Server-side rendering using EJS
 - Handling form data and middleware
