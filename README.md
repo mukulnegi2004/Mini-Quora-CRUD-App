@@ -57,6 +57,7 @@ Server will start at: http://localhost:8080
 ---
 
 ##📌 Routes Overview
+```
 **Route**         	**Method**                   	**Description**
 /posts	            GET	                          Show all posts
 /posts/new	        GET	                          Form to create a new post
@@ -65,6 +66,7 @@ Server will start at: http://localhost:8080
 /posts/:id/edit    	GET	                          Form to edit an existing post
 /posts/:id	        PATCH	                        Update post content
 /posts/:id    	    DELETE	                      Delete a post
+```
 
 ---
 
