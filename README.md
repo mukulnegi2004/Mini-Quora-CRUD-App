@@ -57,6 +57,7 @@ Server will start at: http://localhost:8080
 ---
 
 ##📌 Routes Overview
+
 ```
 **Route**         	**Method**                   	**Description**
 /posts	            GET	                          Show all posts
