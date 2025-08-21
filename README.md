@@ -48,9 +48,9 @@ rest_class/
 ### 1️⃣ Clone the Repository
 git clone https://github.com/your-username/quora-clone.git
 cd quora-clone
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 npm install
-3️⃣ Run the Server
+### 3️⃣ Run the Server
 nodemon index.js
 Server will start at: http://localhost:8080
 
